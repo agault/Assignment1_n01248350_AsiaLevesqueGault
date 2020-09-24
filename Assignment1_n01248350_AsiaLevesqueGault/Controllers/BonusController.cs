@@ -22,9 +22,9 @@ using System.Web.Http;
 /// ((X)5.50)+ (HST*((X)5.5)) <-total cost
 /// 
 ///  // GET api/bonus
-/// 
+/// //Test changes to push to github
 /// </summary>
-/// <results>As of right now it outputs an integer not a decimal.</results>
+/// <results>As of right now it outputs an integer fairly close to the true value but clearly rounded not a decimal.</results>
 namespace Assignment1_n01248350_AsiaLevesqueGault.Controllers
 {
     public class BonusController : ApiController
