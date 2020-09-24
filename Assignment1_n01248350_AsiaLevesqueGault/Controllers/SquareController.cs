@@ -6,10 +6,12 @@ using System.Net.Http;
 using System.Web.Http;
 
 /// <summary>
-/// The square of 2 numbers is themselves multiplied
-///   // GET api/square
+    /// The square of 2 numbers is themselves multiplied
+    /// GET api/square
 /// </summary>
-/// <result> id*id.</result>
+/// <result> 
+    /// id*id.
+/// </result>
 namespace Assignment1_n01248350_AsiaLevesqueGault.Controllers
 {
     public class SquareController : ApiController

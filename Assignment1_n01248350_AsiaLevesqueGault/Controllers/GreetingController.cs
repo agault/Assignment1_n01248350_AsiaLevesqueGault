@@ -6,10 +6,12 @@ using System.Net.Http;
 using System.Web.Http;
 
 /// <summary>
-/// POST api/greeting
-/// Spits out Hello World
+    /// POST api/greeting
+    /// Spits out Hello World
 /// </summary>
-/// <results> "hello World!" </results>
+/// <results> 
+    /// "hello World!" 
+/// </results>
 
 namespace Assignment1_n01248350_AsiaLevesqueGault.Controllers
 {
